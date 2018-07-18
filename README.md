@@ -1,2 +1,2 @@
-# DefinitelyNotBot
-A Discord bot coded in Discord.JS, hosted using Heroku.
+# Teddy_B0T
+Egy discord bot, amit TeddHUN készített.
